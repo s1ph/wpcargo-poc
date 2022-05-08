@@ -1,7 +1,9 @@
 # wpcargo-poc
 WPCargo < 6.9.0 - Unauthenticated RCE vulnerability PoC
-Description
+
+Description:
 The plugin contains a file which could allow unauthenticated attackers to write a PHP file anywhere on the web server, leading to RCE
+
 Original Researcher
 Krzysztof Zając 
 
